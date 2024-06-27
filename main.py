@@ -3,8 +3,16 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-    n1 = int(input("First value: "))
-    n2 = int(input("Second value: "))
+    while True:
+        begin = int(input("First value: "))
+        end = int(input("Second value: "))
+        if begin > 0 and begin < end:
+            
+        else:
+            break
+
+
+
     return plist
 
 
