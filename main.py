@@ -3,7 +3,8 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-
+    n1 = int(input("First value: "))
+    n2 = int(input("Second value: "))
     return plist
 
 
