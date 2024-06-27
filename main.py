@@ -3,16 +3,19 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-    while True:
-        begin = int(input("First value: "))
-        end = int(input("Second value: "))
-        if begin > 0 and begin < end:
-            
-        else:
-            break
+  
+    begin = int(input("First value: "))
+    end = int(input("Second value: "))
+    if begin > 1 and begin < end:
+        for i in range(begin, end):
+            if 
+                plist.append(i)
+            else:
+                pass
 
 
 
+    print(plist)
     return plist
 
 
